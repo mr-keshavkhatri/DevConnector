@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://phoenix:system123@devconnector.sawqwrf.mongodb.net/test",
+    "jwtSecret": "myscrettoken",
+    "githubClientId": "224b7aa8e7f245bd4721",
+    "githubSecret": "15edbb21db783862c0ff4887102dee7dab2c39e3"
+}
